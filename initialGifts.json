@@ -1,0 +1,10 @@
+{
+    "gifts": [
+        { "childName": "Freddy",
+        "item": "kittens",
+        "delivered": false },
+        { "childName": "Suzy",
+        "item": "coal",
+        "delivered": false }
+    ]
+}
